@@ -1,6 +1,6 @@
 # Supermarket Sales Dashboard
 
-
+![House for sale](supermarket logo.jpg)
 
 ## 1. Project Description 
 
